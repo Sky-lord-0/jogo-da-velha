@@ -43,11 +43,11 @@ Este projeto tem como objetivo aplicar os conhecimentos adquiridos nas disciplin
 Trata-se de um sistema completo com front-end, back-end, persistência de dados e segurança, simulando um cenário real de aplicação web funcional e integrada.
 
 ## 📦 Como executar localmente
-> 1. Instale o **XAMPP**  
-> 2. Coloque os arquivos do projeto em `htdocs/jogo-da-velha`  
-> 3. Ative o **Apache** no painel do XAMPP  
-> 4. Certifique-se de que o SQL Server está ativo e o banco `jogodavelha` foi importado  
-> 5. Acesse `http://localhost/jogo-da-velha/cadastro.php` no navegador  
+• 1. Instale o **XAMPP**  
+• 2. Coloque os arquivos do projeto em `htdocs/jogo-da-velha`  
+• 3. Ative o **Apache** no painel do XAMPP  
+• 4. Certifique-se de que o SQL Server está ativo e o banco `jogodavelha` foi importado  
+• 5. Acesse `http://localhost/jogo-da-velha/cadastro.php` no navegador  
 
 ## 📸 Imagens do Projeto
 > 1. Tela de cadastro
