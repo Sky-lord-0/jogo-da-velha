@@ -58,7 +58,7 @@ Trata-se de um sistema completo com front-end, back-end, persistência de dados 
 ![image](https://github.com/user-attachments/assets/b140cd19-075a-46e1-b6fd-645c0c1d35b6)
 > 4. Histórico de partidas
 ![image](https://github.com/user-attachments/assets/8d7b1e42-78f3-4c05-bdb5-bac8e1c300b2)
-> 5. Tela de replay
+> 5. Tela de Replay
 ![image](https://github.com/user-attachments/assets/6cae6c60-7f83-4170-a518-a798cfe8145b)
 > 6. Banco de dados (SSMS; #### 🔐 Tabela de usuários com senhas criptografadas via bcrypt)
 ![image](https://github.com/user-attachments/assets/59140ef8-7d45-41e8-8dae-4b85297fe0ab)
