@@ -50,17 +50,17 @@ Trata-se de um sistema completo com front-end, back-end, persistência de dados 
 • 5. Acesse `http://localhost/jogo-da-velha/cadastro.php` no navegador  
 
 ## 📸 Imagens do Projeto
-> 1. Tela de cadastro
+> 1. Tela de Cadastro
 ![image](https://github.com/user-attachments/assets/ac8969d9-b006-4e8e-95fa-d547df3575cd)
-> 2. Tela de login
+> 2. Tela de Login
 ![image](https://github.com/user-attachments/assets/f5ce1b4f-ce00-4769-b67b-8f414d7bc6e4)
-> 3. Tela inicial (index.php)
+> 3. Tela Inicial (index.php)
 ![image](https://github.com/user-attachments/assets/b140cd19-075a-46e1-b6fd-645c0c1d35b6)
-> 4. Histórico de partidas
+> 4. Histórico de Partidas
 ![image](https://github.com/user-attachments/assets/8d7b1e42-78f3-4c05-bdb5-bac8e1c300b2)
 > 5. Tela de Replay
 ![image](https://github.com/user-attachments/assets/6cae6c60-7f83-4170-a518-a798cfe8145b)
-> 6. Banco de dados (SSMS; #### 🔐 Tabela de usuários com senhas criptografadas via bcrypt)
+> 6. Banco de Dados (SSMS; #### 🔐 Tabela de usuários com senhas criptografadas via bcrypt)
 ![image](https://github.com/user-attachments/assets/59140ef8-7d45-41e8-8dae-4b85297fe0ab)
 
 ## 🙋‍♂️ Desenvolvido por
